@@ -9,6 +9,9 @@ and sent by the ESP8266) through the USART3 interface
 Here is how the esp8266 and FTDI are connected:
 ![Setup](setupftdiesp.png)
 
+connexion between STM32F4 and FTDI :
+![Setup1](STM32F4andftdi.jpg)
+
 The pinout of the esp8266:
 ![Screenshot](esp8266pinout.png)
 
